@@ -67,6 +67,7 @@ form {
     .cont_btn {
       background: #8bacd9;
       padding: 1rem;
+      margin: 1rem;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -75,6 +76,7 @@ form {
       font-weight: bold;
       border-radius: 10px;
       cursor: pointer;
+
       img {
         width: 20px;
         margin-left: 1rem;
